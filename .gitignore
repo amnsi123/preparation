@@ -1,0 +1,6 @@
+*.log
+*.html
+*.xml
+*.pyc
+.project
+.pydevproject

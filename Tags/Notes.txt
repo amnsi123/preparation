@@ -1,0 +1,6 @@
+Remember:
+
+1)We cannot skip a test case in RF.
+
+2)In case of dependent test case,get the status of TC(on which this TC is dependent) and run
+  this TC only if the status is PASS,otherwise fail it.IF-ELSE can be used in this case
